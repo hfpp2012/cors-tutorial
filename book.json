@@ -1,0 +1,20 @@
+{
+    "plugins": [
+      "github-buttons"
+    ],
+    "pluginsConfig": {
+      "github-buttons": {
+        "buttons": [{
+          "user": "yinsigan",
+          "repo": "cors-tutorial",
+          "type": "star",
+          "size": "large"
+        }, {
+          "user": "yinsigan",
+          "type": "follow",
+          "width": "230",
+          "count": false
+        }]
+      }
+    }
+  }
