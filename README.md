@@ -6,7 +6,7 @@
 
 源码位于：https://github.com/yinsigan/cors-tutorial
 
-电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/cors) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/cors) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/cors)
+电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/-cors) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/-cors) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/-cors)
 
 ### 联系我:
 
